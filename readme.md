@@ -32,7 +32,7 @@ yarn dev
 ### After all add the following script to package.json:
 
 ```json
-{
+"scripts": {
   "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
 }
 ```
