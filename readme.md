@@ -65,7 +65,7 @@ export function AppRoutes() {
 }
 ```
 
-### E pra funcionar com o typescript se o eslint chiar:
+### E pra funcionar com o typescript se o eslint der algum erro:
 
 ```yarn
 yarn add @types/react-router-dom -D
