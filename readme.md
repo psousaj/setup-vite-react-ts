@@ -2,7 +2,7 @@
 
 ### Scripts para início do projeto
 
-´´´ 
+´´´ json
 yarn create vite my-app --template react-ts
 ´´´
 ´´´
