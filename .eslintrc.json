@@ -33,6 +33,7 @@
   "settings": {
     "react": {
       "version": "18.2.0"
-    }
+    },
+    "files.eol": "\n"
   }
 }
