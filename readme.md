@@ -7,7 +7,7 @@
 '''
 
 ´´´
-cd my-app
+{ cd my-app }
 ´´´
 
 ´´´
