@@ -2,10 +2,16 @@
 
 ### Scripts para início do projeto
 
-´´´ jsx
+´´´ 
 yarn create vite my-app --template react-ts
+´´´
+´´´
 cd my-app
+´´´
+´´´
 yarn
+´´´
+´´´
 yarn dev 
 ´´´
 
