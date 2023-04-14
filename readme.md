@@ -2,21 +2,21 @@
 
 ### Scripts para início do projeto
 
-''' json
-{ yarn create vite my-app --template react-ts }
-'''
+```yarn
+yarn create vite my-app --template react-ts
+```
 
-´´´
-{ cd my-app }
-´´´
+```yarn
+cd my-app
+```
 
-´´´
+```yarn
 yarn
-´´´
+```
 
-´´´
+```yarn
 yarn dev 
-´´´
+```
 
 ## Go run and happy!  
 
