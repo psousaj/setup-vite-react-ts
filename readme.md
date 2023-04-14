@@ -28,3 +28,11 @@ yarn dev
 
 #### NPM
 ##### - npm install eslint prettier eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks @typescript-eslint/parser @typescript-eslint/eslint-plugin --save-dev
+
+### After all add the following script to package.json:
+
+```json
+{
+  "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+}
+```
